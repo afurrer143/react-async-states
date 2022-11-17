@@ -1,8 +1,8 @@
 function SubscriberView({ subscriber, deleteSubscriber }) {
   console.log("Current subscriber", subscriber);
-  subscriber.map((currentSubscriber, index) => {
-      
-  })
+  // subscriber.map((currentSubscriber, index) => {
+
+  // })
   return (
     <li>
       <p>Name: {subscriber}</p>
